@@ -1,0 +1,459 @@
+[{
+  "_id": {
+    "$oid": "69ef41df80662b515fe017ff"
+  },
+  "studentId": {
+    "$oid": "69ee838c80662b515fe017d3"
+  },
+  "topicId": {
+    "$oid": "69ee7ff380662b515fe017a1"
+  },
+  "startDate": {
+    "$date": "2026-04-25T09:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-04-25T11:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ef41df80662b515fe01800"
+  },
+  "studentId": {
+    "$oid": "69ee838c80662b515fe017d3"
+  },
+  "topicId": {
+    "$oid": "69ee7ff380662b515fe017a2"
+  },
+  "startDate": {
+    "$date": "2026-04-25T11:30:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-04-25T13:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ef41df80662b515fe01801"
+  },
+  "studentId": {
+    "$oid": "69ee838c80662b515fe017d3"
+  },
+  "topicId": {
+    "$oid": "69ee7ff380662b515fe017a3"
+  },
+  "startDate": {
+    "$date": "2026-04-26T09:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-04-26T11:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ef41df80662b515fe01802"
+  },
+  "studentId": {
+    "$oid": "69ee838c80662b515fe017d3"
+  },
+  "topicId": {
+    "$oid": "69ee7ff380662b515fe017a4"
+  },
+  "startDate": {
+    "$date": "2026-04-26T11:30:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-04-26T14:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ef41df80662b515fe01803"
+  },
+  "studentId": {
+    "$oid": "69ee838c80662b515fe017d3"
+  },
+  "topicId": {
+    "$oid": "69ee7ff380662b515fe017a5"
+  },
+  "startDate": {
+    "$date": "2026-04-27T09:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-04-27T12:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ef41df80662b515fe01804"
+  },
+  "studentId": {
+    "$oid": "69ee838c80662b515fe017d3"
+  },
+  "topicId": {
+    "$oid": "69ee7ff380662b515fe017a6"
+  },
+  "startDate": {
+    "$date": "2026-04-27T13:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-04-27T15:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ef41df80662b515fe01805"
+  },
+  "studentId": {
+    "$oid": "69ee838c80662b515fe017d3"
+  },
+  "topicId": {
+    "$oid": "69ee7ff380662b515fe017a7"
+  },
+  "startDate": {
+    "$date": "2026-04-27T16:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-04-27T18:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ef41df80662b515fe01806"
+  },
+  "studentId": {
+    "$oid": "69ee838c80662b515fe017d4"
+  },
+  "topicId": {
+    "$oid": "69ee7ff380662b515fe017a1"
+  },
+  "startDate": {
+    "$date": "2026-04-25T09:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-04-25T11:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ef41df80662b515fe01807"
+  },
+  "studentId": {
+    "$oid": "69ee838c80662b515fe017d4"
+  },
+  "topicId": {
+    "$oid": "69ee7ff380662b515fe017a2"
+  },
+  "startDate": {
+    "$date": "2026-04-25T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-04-25T14:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ef41df80662b515fe01808"
+  },
+  "studentId": {
+    "$oid": "69ee838c80662b515fe017d4"
+  },
+  "topicId": {
+    "$oid": "69ee7ff380662b515fe017a3"
+  },
+  "startDate": {
+    "$date": "2026-04-26T09:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-04-26T11:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ef41df80662b515fe01809"
+  },
+  "studentId": {
+    "$oid": "69ee838c80662b515fe017d4"
+  },
+  "topicId": {
+    "$oid": "69ee7ff380662b515fe017a4"
+  },
+  "startDate": {
+    "$date": "2026-04-26T12:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-04-26T15:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ef41df80662b515fe0180a"
+  },
+  "studentId": {
+    "$oid": "69ee838c80662b515fe017d4"
+  },
+  "topicId": {
+    "$oid": "69ee7ff380662b515fe017a5"
+  },
+  "startDate": {
+    "$date": "2026-04-27T09:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-04-27T11:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ef41df80662b515fe0180b"
+  },
+  "studentId": {
+    "$oid": "69ee838c80662b515fe017d5"
+  },
+  "topicId": {
+    "$oid": "69ee7ff380662b515fe017a1"
+  },
+  "startDate": {
+    "$date": "2026-04-25T10:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-04-25T12:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ef41df80662b515fe0180c"
+  },
+  "studentId": {
+    "$oid": "69ee838c80662b515fe017d5"
+  },
+  "topicId": {
+    "$oid": "69ee7ff380662b515fe017a2"
+  },
+  "startDate": {
+    "$date": "2026-04-26T10:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-04-26T12:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ef41df80662b515fe0180d"
+  },
+  "studentId": {
+    "$oid": "69ee838c80662b515fe017d6"
+  },
+  "topicId": {
+    "$oid": "69ee7ff380662b515fe017a1"
+  },
+  "startDate": {
+    "$date": "2026-04-25T08:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-04-25T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ef41df80662b515fe0180e"
+  },
+  "studentId": {
+    "$oid": "69ee838c80662b515fe017d6"
+  },
+  "topicId": {
+    "$oid": "69ee7ff380662b515fe017a2"
+  },
+  "startDate": {
+    "$date": "2026-04-25T10:30:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-04-25T12:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ef41df80662b515fe0180f"
+  },
+  "studentId": {
+    "$oid": "69ee838c80662b515fe017d6"
+  },
+  "topicId": {
+    "$oid": "69ee7ff380662b515fe017a3"
+  },
+  "startDate": {
+    "$date": "2026-04-25T13:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-04-25T15:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ef41df80662b515fe01810"
+  },
+  "studentId": {
+    "$oid": "69ee838c80662b515fe017d6"
+  },
+  "topicId": {
+    "$oid": "69ee7ff380662b515fe017a4"
+  },
+  "startDate": {
+    "$date": "2026-04-26T08:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-04-26T11:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ef41df80662b515fe01811"
+  },
+  "studentId": {
+    "$oid": "69ee838c80662b515fe017d6"
+  },
+  "topicId": {
+    "$oid": "69ee7ff380662b515fe017a5"
+  },
+  "startDate": {
+    "$date": "2026-04-26T11:30:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-04-26T14:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ef41df80662b515fe01812"
+  },
+  "studentId": {
+    "$oid": "69ee838c80662b515fe017d6"
+  },
+  "topicId": {
+    "$oid": "69ee7ff380662b515fe017a6"
+  },
+  "startDate": {
+    "$date": "2026-04-26T14:30:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-04-26T17:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ef41df80662b515fe01813"
+  },
+  "studentId": {
+    "$oid": "69ee838c80662b515fe017d6"
+  },
+  "topicId": {
+    "$oid": "69ee7ff380662b515fe017a7"
+  },
+  "startDate": {
+    "$date": "2026-04-27T08:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-04-27T10:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ef41df80662b515fe01814"
+  },
+  "studentId": {
+    "$oid": "69ee838c80662b515fe017d6"
+  },
+  "topicId": {
+    "$oid": "69ee7ff380662b515fe017a8"
+  },
+  "startDate": {
+    "$date": "2026-04-27T11:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-04-27T13:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ef41df80662b515fe01815"
+  },
+  "studentId": {
+    "$oid": "69ee838c80662b515fe017d6"
+  },
+  "topicId": {
+    "$oid": "69ee7ff380662b515fe017a9"
+  },
+  "startDate": {
+    "$date": "2026-04-27T13:30:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-04-27T15:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ef41df80662b515fe01816"
+  },
+  "studentId": {
+    "$oid": "69ee838c80662b515fe017d6"
+  },
+  "topicId": {
+    "$oid": "69ee7ff380662b515fe017aa"
+  },
+  "startDate": {
+    "$date": "2026-04-27T16:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-04-27T18:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ef41df80662b515fe01817"
+  },
+  "studentId": {
+    "$oid": "69ee838c80662b515fe017d6"
+  },
+  "topicId": {
+    "$oid": "69ee7ff380662b515fe017ab"
+  },
+  "startDate": {
+    "$date": "2026-04-28T08:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-04-28T10:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ef41df80662b515fe01818"
+  },
+  "studentId": {
+    "$oid": "69ee838c80662b515fe017d6"
+  },
+  "topicId": {
+    "$oid": "69ee7ff380662b515fe017ac"
+  },
+  "startDate": {
+    "$date": "2026-04-28T11:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-04-28T13:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ef41df80662b515fe01819"
+  },
+  "studentId": {
+    "$oid": "69ee838c80662b515fe017d6"
+  },
+  "topicId": {
+    "$oid": "69ee7ff380662b515fe017ad"
+  },
+  "startDate": {
+    "$date": "2026-04-28T13:30:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-04-28T15:30:00.000Z"
+  }
+}]

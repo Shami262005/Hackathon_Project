@@ -1,0 +1,132 @@
+[{
+  "_id": {
+    "$oid": "69ee7c6080662b515fe0173c"
+  },
+  "courseId": {
+    "$oid": "69ecddcbd3c3550523f54820"
+  },
+  "title": "Chapter 2: Interactivity and User Experience",
+  "order": 2,
+  "duration": 7,
+  "durationUnit": "weeks"
+},
+{
+  "_id": {
+    "$oid": "69ee7c6080662b515fe0173e"
+  },
+  "courseId": {
+    "$oid": "69ecddcbd3c3550523f54820"
+  },
+  "title": "Chapter 4: Version control & hosting",
+  "order": 4,
+  "duration": 1,
+  "durationUnit": "weeks"
+},
+{
+  "_id": {
+    "$oid": "69ee7c6080662b515fe01744"
+  },
+  "courseId": {
+    "$oid": "69ecddcbd3c3550523f54820"
+  },
+  "title": "Chapter 9: Node.js",
+  "order": 10,
+  "duration": 6,
+  "durationUnit": "weeks"
+},
+{
+  "_id": {
+    "$oid": "69ee7c6080662b515fe0173f"
+  },
+  "courseId": {
+    "$oid": "69ecddcbd3c3550523f54820"
+  },
+  "title": "Paid Assignment 1: Build your portfolio website",
+  "order": 5,
+  "duration": 4,
+  "durationUnit": "weeks"
+},
+{
+  "_id": {
+    "$oid": "69ee7c6080662b515fe01740"
+  },
+  "courseId": {
+    "$oid": "69ecddcbd3c3550523f54820"
+  },
+  "title": "Chapter 5: Building dynamic websites",
+  "order": 6,
+  "duration": 2,
+  "durationUnit": "weeks"
+},
+{
+  "_id": {
+    "$oid": "69ee7c6080662b515fe01742"
+  },
+  "courseId": {
+    "$oid": "69ecddcbd3c3550523f54820"
+  },
+  "title": "Chapter 7: Databases",
+  "order": 8,
+  "duration": 4,
+  "durationUnit": "weeks"
+},
+{
+  "_id": {
+    "$oid": "69ee7c6080662b515fe01743"
+  },
+  "courseId": {
+    "$oid": "69ecddcbd3c3550523f54820"
+  },
+  "title": "Chapter 8: React",
+  "order": 9,
+  "duration": 6,
+  "durationUnit": "weeks"
+},
+{
+  "_id": {
+    "$oid": "69ee7c6080662b515fe0173b"
+  },
+  "courseId": {
+    "$oid": "69ecddcbd3c3550523f54820"
+  },
+  "title": "Chapter 1: How the internet works",
+  "order": 1,
+  "duration": 1,
+  "durationUnit": "weeks"
+},
+{
+  "_id": {
+    "$oid": "69ee7c6080662b515fe0173d"
+  },
+  "courseId": {
+    "$oid": "69ecddcbd3c3550523f54820"
+  },
+  "title": "Chapter 3: HTML & CSS",
+  "order": 3,
+  "duration": 3,
+  "durationUnit": "weeks"
+},
+{
+  "_id": {
+    "$oid": "69ee7c6080662b515fe01741"
+  },
+  "courseId": {
+    "$oid": "69ecddcbd3c3550523f54820"
+  },
+  "title": "Chapter 6: TypeScript",
+  "order": 7,
+  "duration": 2,
+  "durationUnit": "weeks"
+},
+{
+  "_id": {
+    "$oid": "69ee7c6080662b515fe01745"
+  },
+  "courseId": {
+    "$oid": "69ecddcbd3c3550523f54820"
+  },
+  "title": "Paid Assignment 2: Build a full stack application",
+  "order": 11,
+  "duration": 3,
+  "durationUnit": "months"
+}]

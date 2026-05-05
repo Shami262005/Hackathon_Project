@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "69ecddcbd3c3550523f54820"
+  },
+  "title": "Fullstack Course",
+  "duration": "1 year"
+},
+{
+  "_id": {
+    "$oid": "69ecddcbd3c3550523f54821"
+  },
+  "title": "AI Course",
+  "duration": "6 months"
+}]

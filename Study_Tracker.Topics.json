@@ -1,0 +1,420 @@
+[{
+  "_id": {
+    "$oid": "69ee7ff380662b515fe017a3"
+  },
+  "chapterId": {
+    "$oid": "69ee7c6080662b515fe0173b"
+  },
+  "title": "The Internet Routing Hierarchy",
+  "order": 3
+},
+{
+  "_id": {
+    "$oid": "69ee7ff380662b515fe017a7"
+  },
+  "chapterId": {
+    "$oid": "69ee7c6080662b515fe0173c"
+  },
+  "title": "JavaScript Hands-On Practice",
+  "order": 3
+},
+{
+  "_id": {
+    "$oid": "69ee7ff380662b515fe017ab"
+  },
+  "chapterId": {
+    "$oid": "69ee7c6080662b515fe0173c"
+  },
+  "title": "JavaScript Hands-On Practice 2",
+  "order": 7
+},
+{
+  "_id": {
+    "$oid": "69ee7ff380662b515fe017b2"
+  },
+  "chapterId": {
+    "$oid": "69ee7c6080662b515fe0173e"
+  },
+  "title": "Learn git, GitHub and GitHub Desktop",
+  "order": 2
+},
+{
+  "_id": {
+    "$oid": "69ee7ff380662b515fe017b8"
+  },
+  "chapterId": {
+    "$oid": "69ee7c6080662b515fe01741"
+  },
+  "title": "How to use TypeScript - Beginner-friendly tutorial",
+  "order": 2
+},
+{
+  "_id": {
+    "$oid": "69ee7ff380662b515fe017ba"
+  },
+  "chapterId": {
+    "$oid": "69ee7c6080662b515fe01741"
+  },
+  "title": "Assignment: Task Manager Application",
+  "order": 4
+},
+{
+  "_id": {
+    "$oid": "69ee7ff380662b515fe017bc"
+  },
+  "chapterId": {
+    "$oid": "69ee7c6080662b515fe01742"
+  },
+  "title": "Optional - Learn SQL on Code Academy",
+  "order": 2
+},
+{
+  "_id": {
+    "$oid": "69ee7ff380662b515fe017be"
+  },
+  "chapterId": {
+    "$oid": "69ee7c6080662b515fe01742"
+  },
+  "title": "Assignment: SQL Northwind Queries",
+  "order": 4
+},
+{
+  "_id": {
+    "$oid": "69ee7ff380662b515fe017bf"
+  },
+  "chapterId": {
+    "$oid": "69ee7c6080662b515fe01742"
+  },
+  "title": "Assignment: MongoDB Mflix Queries",
+  "order": 5
+},
+{
+  "_id": {
+    "$oid": "69ee7ff380662b515fe017c1"
+  },
+  "chapterId": {
+    "$oid": "69ee7c6080662b515fe01743"
+  },
+  "title": "Advanced React on Code Academy",
+  "order": 2
+},
+{
+  "_id": {
+    "$oid": "69ee7ff380662b515fe017c4"
+  },
+  "chapterId": {
+    "$oid": "69ee7c6080662b515fe01744"
+  },
+  "title": "Node.js YouTube tutorial",
+  "order": 2
+},
+{
+  "_id": {
+    "$oid": "69ee7ff380662b515fe017a2"
+  },
+  "chapterId": {
+    "$oid": "69ee7c6080662b515fe0173b"
+  },
+  "title": "How does the internet work?",
+  "order": 2
+},
+{
+  "_id": {
+    "$oid": "69ee7ff380662b515fe017a8"
+  },
+  "chapterId": {
+    "$oid": "69ee7c6080662b515fe0173c"
+  },
+  "title": "Manipulating HTML elements with JavaScript",
+  "order": 4
+},
+{
+  "_id": {
+    "$oid": "69ee7ff380662b515fe017aa"
+  },
+  "chapterId": {
+    "$oid": "69ee7c6080662b515fe0173c"
+  },
+  "title": "Form validation using HTML and JavaScript",
+  "order": 6
+},
+{
+  "_id": {
+    "$oid": "69ee7ff380662b515fe017ac"
+  },
+  "chapterId": {
+    "$oid": "69ee7c6080662b515fe0173d"
+  },
+  "title": "Learn HTML - Beginner's Course",
+  "order": 1
+},
+{
+  "_id": {
+    "$oid": "69ee7ff380662b515fe017ad"
+  },
+  "chapterId": {
+    "$oid": "69ee7c6080662b515fe0173d"
+  },
+  "title": "HTML Basics",
+  "order": 2
+},
+{
+  "_id": {
+    "$oid": "69ee7ff380662b515fe017b3"
+  },
+  "chapterId": {
+    "$oid": "69ee7c6080662b515fe0173e"
+  },
+  "title": "Web hosting and deployment",
+  "order": 3
+},
+{
+  "_id": {
+    "$oid": "69ee7ff380662b515fe017b6"
+  },
+  "chapterId": {
+    "$oid": "69ee7c6080662b515fe01740"
+  },
+  "title": "Assignment: Recreate Portfolio with Bootstrap 5",
+  "order": 2
+},
+{
+  "_id": {
+    "$oid": "69ee7ff380662b515fe017bb"
+  },
+  "chapterId": {
+    "$oid": "69ee7c6080662b515fe01742"
+  },
+  "title": "Introduction to Databases and SQL Querying",
+  "order": 1
+},
+{
+  "_id": {
+    "$oid": "69ee7ff380662b515fe017c3"
+  },
+  "chapterId": {
+    "$oid": "69ee7c6080662b515fe01744"
+  },
+  "title": "Introduction to Node.js - Code Academy",
+  "order": 1
+},
+{
+  "_id": {
+    "$oid": "69ee7ff380662b515fe017c5"
+  },
+  "chapterId": {
+    "$oid": "69ee7c6080662b515fe01744"
+  },
+  "title": "Crash course of Node.js",
+  "order": 3
+},
+{
+  "_id": {
+    "$oid": "69ee7ff380662b515fe017c6"
+  },
+  "chapterId": {
+    "$oid": "69ee7c6080662b515fe01744"
+  },
+  "title": "W3Schools Node Tutorial",
+  "order": 4
+},
+{
+  "_id": {
+    "$oid": "69ee7ff380662b515fe017c8"
+  },
+  "chapterId": {
+    "$oid": "69ee7c6080662b515fe01744"
+  },
+  "title": "Optional - MDN docs",
+  "order": 6
+},
+{
+  "_id": {
+    "$oid": "69ee7ff380662b515fe017a1"
+  },
+  "chapterId": {
+    "$oid": "69ee7c6080662b515fe0173b"
+  },
+  "title": "What is the internet?",
+  "order": 1
+},
+{
+  "_id": {
+    "$oid": "69ee7ff380662b515fe017a4"
+  },
+  "chapterId": {
+    "$oid": "69ee7c6080662b515fe0173b"
+  },
+  "title": "Assignment: Blog Post",
+  "order": 4
+},
+{
+  "_id": {
+    "$oid": "69ee7ff380662b515fe017a6"
+  },
+  "chapterId": {
+    "$oid": "69ee7c6080662b515fe0173c"
+  },
+  "title": "JavaScript Algorithms and Data Structures",
+  "order": 2
+},
+{
+  "_id": {
+    "$oid": "69ee7ff380662b515fe017ae"
+  },
+  "chapterId": {
+    "$oid": "69ee7c6080662b515fe0173d"
+  },
+  "title": "Learn CSS in 11 hours",
+  "order": 3
+},
+{
+  "_id": {
+    "$oid": "69ee7ff380662b515fe017b0"
+  },
+  "chapterId": {
+    "$oid": "69ee7c6080662b515fe0173d"
+  },
+  "title": "Assignment: Personal Portfolio in HTML & CSS",
+  "order": 5
+},
+{
+  "_id": {
+    "$oid": "69ee7ff380662b515fe017b1"
+  },
+  "chapterId": {
+    "$oid": "69ee7c6080662b515fe0173e"
+  },
+  "title": "What is version control?",
+  "order": 1
+},
+{
+  "_id": {
+    "$oid": "69ee7ff380662b515fe017b5"
+  },
+  "chapterId": {
+    "$oid": "69ee7c6080662b515fe01740"
+  },
+  "title": "Bootstrap 5",
+  "order": 1
+},
+{
+  "_id": {
+    "$oid": "69ee7ff380662b515fe017bd"
+  },
+  "chapterId": {
+    "$oid": "69ee7c6080662b515fe01742"
+  },
+  "title": "Introduction to MongoDB",
+  "order": 3
+},
+{
+  "_id": {
+    "$oid": "69ee7ff380662b515fe017c0"
+  },
+  "chapterId": {
+    "$oid": "69ee7c6080662b515fe01743"
+  },
+  "title": "Introduction to React and its components",
+  "order": 1
+},
+{
+  "_id": {
+    "$oid": "69ee7ff380662b515fe017c2"
+  },
+  "chapterId": {
+    "$oid": "69ee7c6080662b515fe01743"
+  },
+  "title": "Making a Tic-Tac-Toe game in React",
+  "order": 3
+},
+{
+  "_id": {
+    "$oid": "69ee7ff380662b515fe017c7"
+  },
+  "chapterId": {
+    "$oid": "69ee7c6080662b515fe01744"
+  },
+  "title": "Learn Express - Code Academy",
+  "order": 5
+},
+{
+  "_id": {
+    "$oid": "69ee7ff380662b515fe017a5"
+  },
+  "chapterId": {
+    "$oid": "69ee7c6080662b515fe0173c"
+  },
+  "title": "Intro course to JavaScript",
+  "order": 1
+},
+{
+  "_id": {
+    "$oid": "69ee7ff380662b515fe017a9"
+  },
+  "chapterId": {
+    "$oid": "69ee7c6080662b515fe0173c"
+  },
+  "title": "Handling events in JavaScript",
+  "order": 5
+},
+{
+  "_id": {
+    "$oid": "69ee7ff380662b515fe017af"
+  },
+  "chapterId": {
+    "$oid": "69ee7c6080662b515fe0173d"
+  },
+  "title": "CSS Basic and Advanced Properties",
+  "order": 4
+},
+{
+  "_id": {
+    "$oid": "69ee7ff380662b515fe017b4"
+  },
+  "chapterId": {
+    "$oid": "69ee7c6080662b515fe0173f"
+  },
+  "title": "Assignment: Build your portfolio website",
+  "order": 1
+},
+{
+  "_id": {
+    "$oid": "69ee7ff380662b515fe017b7"
+  },
+  "chapterId": {
+    "$oid": "69ee7c6080662b515fe01741"
+  },
+  "title": "Introduction to TypeScript",
+  "order": 1
+},
+{
+  "_id": {
+    "$oid": "69ee7ff380662b515fe017b9"
+  },
+  "chapterId": {
+    "$oid": "69ee7c6080662b515fe01741"
+  },
+  "title": "TypeScript Tutorial",
+  "order": 3
+},
+{
+  "_id": {
+    "$oid": "69ee7ff380662b515fe017c9"
+  },
+  "chapterId": {
+    "$oid": "69ee7c6080662b515fe01744"
+  },
+  "title": "The Odin Project",
+  "order": 7
+},
+{
+  "_id": {
+    "$oid": "69ee7ff380662b515fe017ca"
+  },
+  "chapterId": {
+    "$oid": "69ee7c6080662b515fe01745"
+  },
+  "title": "Assignment: Build a full stack application",
+  "order": 1
+}]

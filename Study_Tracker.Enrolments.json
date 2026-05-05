@@ -1,0 +1,47 @@
+[{
+  "_id": {
+    "$oid": "69ee847780662b515fe017dc"
+  },
+  "courseId": {
+    "$oid": "69ecddcbd3c3550523f54820"
+  },
+  "studentId": {
+    "$oid": "69ee838c80662b515fe017d4"
+  },
+  "startDate": {
+    "$date": "2025-08-25T00:00:00.000Z"
+  },
+  "endDate": null
+},
+{
+  "_id": {
+    "$oid": "69ee847780662b515fe017db"
+  },
+  "courseId": {
+    "$oid": "69ecddcbd3c3550523f54820"
+  },
+  "studentId": {
+    "$oid": "69ee838c80662b515fe017d3"
+  },
+  "startDate": {
+    "$date": "2026-04-25T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2028-10-25T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f1f000b5519c3613532077"
+  },
+  "studentId": {
+    "$oid": "69f1d4d7f5c820773b51e322"
+  },
+  "courseId": {
+    "$oid": "69ecddcbd3c3550523f54820"
+  },
+  "startDate": {
+    "$date": "2026-04-29T11:48:16.452Z"
+  },
+  "endDate": null
+}]

@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "69ee838c80662b515fe017d3"
+  },
+  "fullname": "Marlene Ntelamo",
+  "email": "marlenentelamo@gmail.com",
+  "cohort": 1,
+  "country": "Namibia",
+  "password": "marlene",
+  "profilePictureName": "marlene_profile",
+  "dateJoined": {
+    "$date": "2026-04-26T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ee838c80662b515fe017d4"
+  },
+  "fullname": "Shamiso Vushe",
+  "email": "shamirav26@gmail.com",
+  "dateJoined": {
+    "$date": "2026-04-26T00:00:00.000Z"
+  },
+  "cohort": 1,
+  "country": "Namibia",
+  "password": "shamiso",
+  "profilePictureName": "shamiso_profile"
+},
+{
+  "_id": {
+    "$oid": "69ee838c80662b515fe017d5"
+  },
+  "fullname": "Halima Tambala",
+  "email": "halimatambala@gmail.com",
+  "dateJoined": {
+    "$date": "2026-04-26T00:00:00.000Z"
+  },
+  "cohort": 1,
+  "password": "halima",
+  "profilePictureName": "halima_profile",
+  "country": "Malawi"
+},
+{
+  "_id": {
+    "$oid": "69ee838c80662b515fe017d6"
+  },
+  "fullname": "Lusia Kaushiningwa",
+  "email": "lusiakaushiningwa@gmail.com",
+  "dateJoined": {
+    "$date": "2026-04-26T00:00:00.000Z"
+  },
+  "cohort": 1,
+  "country": "Namibia",
+  "password": "lusia",
+  "profilePictureName": "lusia_profile"
+}]
